@@ -2,3 +2,4 @@
 /.idea/
 /.git/
 /.gradle/
+/src/main/resources/my.txt
